@@ -1867,7 +1867,7 @@ a {
   }
 
   .footer-section .container {
-    padding: 60px 60px 60px 60px;
+    /* padding: 60px 60px 60px 60px; */
     font-family: poppins;
     display: flex;
     justify-content: space-between;
@@ -2768,7 +2768,7 @@ a {
   }
 
   .footer-section .container {
-    padding: 60px 120px 60px 120px;
+    /* padding: 60px 120px 60px 120px; */
     font-family: poppins;
     display: flex;
     justify-content: space-between;
